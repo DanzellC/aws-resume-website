@@ -3,7 +3,7 @@
 ---
 
 ## 📌 What the Project Does
-This is a static S3 portfolio website that hosts my professional resume. It demonstrates how I used AWS services to deliver a secure and fast site with a custom domain.
+This is a static portfolio website that hosts my professional resume. It demonstrates how I used AWS services to deliver a secure and fast site with a custom domain.
 
 ---
 
