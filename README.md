@@ -1,4 +1,4 @@
-Static resume website hosted on AWS using S3, CloudFront, Route 53, and ACM.
+## Static resume website hosted on AWS using S3, CloudFront, Route 53, and ACM.
 
 ---
 
