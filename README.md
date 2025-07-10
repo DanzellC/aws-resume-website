@@ -18,7 +18,7 @@ This is a static portfolio website that hosts my professional resume. It demonst
 ---
 
 ## 🧱 Architecture Diagram
-![AWS Resume Website Architecture](awsResumeSiteDiagram.png)
+![AWS Resume Website Architecture](awsResumeSite/awsResumeSiteDiagram.png)
 
 ---
 
